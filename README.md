@@ -2,7 +2,7 @@
 
 2012 ROBLOX Studio that allows Hosting and Joining.
 
-# How to use
+# How to Install
 
 First, download the Studio.zip file. Then, copy the files inside to its own folder.
 Launch the 2012Studio.exe file to open studio!
