@@ -40,4 +40,4 @@ Enjoy!
 You can still play solo without port forwarding by starting a server and joining yourself with IP 127.0.0.1
 RAdmin and other similar services can also be used, but I cannot verify the credibility of them. Its up to you what you use to fix this problem.
 
-https://images-ext-1.discordapp.net/external/5a5m-NlWdc7uZouOHLnfS8FzS2r-7T87Cs4FmsAEPvU/http/hereelabs.cf/images/iojbgutl.png?width=981&height=676
+![image](https://images-ext-1.discordapp.net/external/5a5m-NlWdc7uZouOHLnfS8FzS2r-7T87Cs4FmsAEPvU/http/hereelabs.cf/images/iojbgutl.png?width=981&height=676)
