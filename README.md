@@ -16,7 +16,9 @@ Inside of the Novetus program, go to versions, and select 2012M. (Or whatever yo
 # KNOWN BROKEN THINGS:
 
 Toolbox
+
 In-Studio stamper tool
+
 Assets not loading
 
 # HOW TO FIX ASSETS
