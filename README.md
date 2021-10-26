@@ -1,6 +1,7 @@
 ![image](http://2012.hereelabs.cf/IDE/index_files/2012studio.png)
 # 2012studio
 
+https://discord.gg/vpdK8MQTDx
 2012 ROBLOX that allows Hosting, Joining, and map development.
 This is a Novetus addon, check out Novetus at http://bitl.itch.io/Novetus
 
