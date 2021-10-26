@@ -1,5 +1,5 @@
 ![image](http://2012.hereelabs.cf/IDE/index_files/2012studio.png)
-# 2012-ROBLOX
+# 2012studio
 
 2012 ROBLOX that allows Hosting, Joining, and map development.
 This is a Novetus addon, check out Novetus at http://bitl.itch.io/Novetus
@@ -43,5 +43,7 @@ To join yourself, ALWAYS use 127.0.0.1 or your local ip. NEVER use your public i
 
 You can play solo by opening the studio exe file, going to tools, then clicking play solo. Maps may act differently when you do this, but it should work.
 RAdmin and other similar services can also be used, but I cannot verify the credibility of them. Its up to you what you use to fix this problem.
+
+(outdated image below)
 
 ![image](https://images-ext-1.discordapp.net/external/5a5m-NlWdc7uZouOHLnfS8FzS2r-7T87Cs4FmsAEPvU/http/hereelabs.cf/images/iojbgutl.png?width=981&height=676)
