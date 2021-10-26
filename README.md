@@ -6,7 +6,9 @@ This is a Novetus addon, check out Novetus at http://bitl.itch.io/Novetus
 
 # How to Install
 
-First, download the 2012M.7z file. Then, copy the files inside to its own folder
+DOWNLOAD: http://2012.hereelabs.cf/2012studio.zip (TEMPORARY until github actually decides to work)
+
+First, download the 2012studio.zip file. Then, copy the files inside to its own folder
 Inside Novetus' "Clients" folder.
 Inside of the Novetus program, go to versions, and select 2012M. (Or whatever you named it)
 
