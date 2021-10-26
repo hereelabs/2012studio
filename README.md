@@ -2,7 +2,7 @@
 # 2012-ROBLOX
 
 2012 ROBLOX that allows Hosting, Joining, and map development.
-This is a Novetus addon, checkc out Novetus at http://bitl.itch.io/Novetus
+This is a Novetus addon, check out Novetus at http://bitl.itch.io/Novetus
 
 # How to Install
 
