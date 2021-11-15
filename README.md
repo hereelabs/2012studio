@@ -15,11 +15,11 @@ Inside of the Novetus program, go to versions, and select 2012M. (Or whatever yo
 
 # KNOWN BROKEN THINGS:
 
-Toolbox
+Toolbox [Too lazy to fix]
 
-In-Studio stamper tool
+In-Studio stamper tool [Cannot Fix!]
 
-Assets not loading
+Assets not loading [Can Be Fixed]
 
 # HOW TO FIX ASSETS
 
@@ -33,7 +33,7 @@ Port forward 53640 (this is the port ROBLOX uses)
 
 # Hosting a LAN server?
 
-Open up command prompt, and put in "ipconfig" find IPv4 Address : 192.168.xxx.xxx and send tell it to your friend or family member.
+Open up command prompt, and put in "ipconfig" find IPv4 Address : 192.168.xxx.xxx and tell it to your friend or family member.
 Novetus is very easy to host on LAN. Select the client (in the VERSIONS area), select a map (in the MAPS area) go to the host area, and Click host. (DO NOT USE NO3D)
 To join yourself, ALWAYS use 127.0.0.1 or your local ip. NEVER use your public ip to join yourself, as it will fail.
 
