@@ -1,3 +1,8 @@
+# THIS PROJECT IS ABANDONED! I LOST ACCESS TO MY SITE DUE TO FREENOM...
+This doesn't mean I'm done with old online video game stuff, check back here later!
+
+
+
 ![image](http://2012.hereelabs.cf/IDE/index_files/2012studio.png)
 # 2012studio
 
