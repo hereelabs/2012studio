@@ -3,7 +3,7 @@ This doesn't mean I'm done with old online video game stuff, check back here lat
 
 
 
-![image](http://2012.hereelabs.cf/IDE/index_files/2012studio.png)
+![image](https://cdn.discordapp.com/attachments/1003402041017765960/1008159017769631815/HEREELABS_LOGO.png)
 # 2012studio
 
 2012 ROBLOX that allowed Hosting, Joining, and map development.
