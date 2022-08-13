@@ -6,9 +6,8 @@ This doesn't mean I'm done with old online video game stuff, check back here lat
 ![image](http://2012.hereelabs.cf/IDE/index_files/2012studio.png)
 # 2012studio
 
-https://discord.gg/vpdK8MQTDx
-2012 ROBLOX that allows Hosting, Joining, and map development.
-This is a Novetus addon, check out Novetus at http://bitl.itch.io/Novetus
+2012 ROBLOX that allowed Hosting, Joining, and map development.
+This was a Novetus addon, check out Novetus at http://bitl.itch.io/Novetus
 
 # How to Install
 
@@ -20,11 +19,11 @@ Inside of the Novetus program, go to versions, and select 2012M. (Or whatever yo
 
 # KNOWN BROKEN THINGS:
 
-Toolbox [Too lazy to fix]
+Toolbox [Never fixed]
 
-In-Studio stamper tool [Cannot Fix!]
+In-Studio stamper tool [Never fixed]
 
-Assets not loading [Can Be Fixed]
+Assets not loading [Never fixed]
 
 # HOW TO FIX ASSETS
 
@@ -32,7 +31,7 @@ Use a program called "Notepad++" to replace all http://www.roblox.com/asset link
 
 # HOW TO HOST
 
-Hosting is quite simple, if you know how to port forward. If you do not,
+Hosting was quite simple, if you know how to port forward. If you do not,
 Search up your router name then port forwarding (EX: Xfinity Port Foward)
 Port forward 53640 (this is the port ROBLOX uses)
 
